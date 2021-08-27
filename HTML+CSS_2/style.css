@@ -1,0 +1,7 @@
+.semicircle {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    box-shadow: 1px 4px red;
+    transform: rotate(-70deg);
+} 
