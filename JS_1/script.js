@@ -1,3 +1,5 @@
-$('span').hover(function() {
-    $('body').toggleClass('stop-scrolling');
-});
+$(() => {
+    $('span').hover(function() {
+        $('body').toggleClass('stop-scrolling');
+    });
+})
